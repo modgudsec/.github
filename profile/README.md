@@ -1,4 +1,4 @@
-![Modgud — a local-first malware triage and reverse-engineering workbench that runs on your NPU](docs/banner.png)
+![Modgud — a local-first malware triage and reverse-engineering workbench that runs on your NPU](banner.png)
 
 # Modgud
 
